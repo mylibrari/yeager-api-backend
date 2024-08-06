@@ -17,8 +17,8 @@ This is the backend repository for the NFT Minting Platform, built using Node.js
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/geekmood/yeager-backend.git
-cd yeager-backend
+git clone https://github.com/mylibrari/yeager-api-backend.git
+cd yeager-api-backend
 ```
 Note: Clone the .env.example as .env and add your variables
 
